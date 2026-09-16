@@ -1,0 +1,8 @@
+name = "Lucky Block"
+filename = "lucky-block-forge-1.12.2-2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3652/674/lucky-block-forge-1.12.2-2.0.jar"
+hash-format = "sha256"
+hash = "79769f2e817507834b1c91601b8137e81ac361d558884c4529083a8e636fd5a5"

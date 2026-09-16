@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "e34142862856ecf002810d4abcab1cd4c81a26866b5177d3f7ee72ec3a135fc1"
+
+[[files]]
 file = "mods/Soulbound-1.12.2-1.0.0.jar"
 hash = "069183bac9ee79cddaeffbf0425ba50d74557628713b3749b82022cfd74756f8"
 
@@ -30,8 +34,8 @@ hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
 metafile = true
 
 [[files]]
-file = "mods/lucky-block.pw.toml"
-hash = "0e34e8533bee9e9b80faf8bbd69302c3021aba073d947f065f04ef2ef7282600"
+file = "mods/lucky-block-forge-1-12-2-2-0-jar.pw.toml"
+hash = "9abefd8ca2f7d180e5c11f2a48f0c91d1e688e89fd270b1209440b5991e9f03f"
 metafile = true
 
 [[files]]
@@ -40,18 +44,18 @@ hash = "d8c145ee4b7b5c07529b28e5b6b5a372857ff97c0c5f48c4a4a49916983992d1"
 metafile = true
 
 [[files]]
+file = "mods/nocubes-srp-nests-addon-3-0-0-jar.pw.toml"
+hash = "2172ca19179a5878862ad5f75face0202dd3866b4af575c6b5a55c9eaee7c72d"
+metafile = true
+
+[[files]]
 file = "mods/projecte.pw.toml"
 hash = "4d0eefd58ee00bebee6d4b4309c819ede0cab0368d66e614a4bcbc2dc97ef829"
 metafile = true
 
 [[files]]
-file = "mods/scape-and-run-parasites-nests-addon-by-nocube.pw.toml"
-hash = "1acac52594b1a4359ea1bd8c975cdd38f72eed038164be9ea2718b0dbdcba53b"
-metafile = true
-
-[[files]]
-file = "mods/scape-and-run-parasites.pw.toml"
-hash = "9c3793c6e793a29fd2849f39f27153070fe402e868539a7214f8dd618bcdf1db"
+file = "mods/srparasites-1-10-9-jar.pw.toml"
+hash = "09623a1d57af3470331444783f52ed360987922c05bdb33a1c26171f2ef38083"
 metafile = true
 
 [[files]]

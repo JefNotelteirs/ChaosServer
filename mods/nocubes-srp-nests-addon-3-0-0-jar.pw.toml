@@ -1,0 +1,8 @@
+name = "Scape and Run: Parasites Nests Addon (by NoCube)"
+filename = "NoCubes_SRP_Nests_Addon_3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4048/252/NoCubes_SRP_Nests_Addon_3.0.0.jar"
+hash-format = "sha256"
+hash = "bcf1d0dd24e4c91e835572f38df42ddcbfce26dc348f4e795ec4ad75d66fd094"

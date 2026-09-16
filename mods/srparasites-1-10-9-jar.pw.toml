@@ -1,0 +1,8 @@
+name = "Scape and Run: Parasites"
+filename = "SRParasites-1.10.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8787/918/SRParasites-1.10.9.jar"
+hash-format = "sha256"
+hash = "91051446401d0a7f346f53fc5f3f07658d4b8b36d22f19f4dfefae511a52f37b"
