@@ -14,13 +14,19 @@ Minecraft **1.12.2**, Forge **14.23.5.2864**. A packwiz pack.
    "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/JefNotelteirs/ChaosServer/main/pack.toml
    ```
 
-4. Launch once. It pulls every mod down automatically, except for the three below.
+4. **Do the manual downloads below first** (see next section), then launch. Everything
+   else installs itself, and re-syncs on every launch from then on.
 
-## Three mods must be downloaded by hand
+## Three mods must be downloaded by hand, before the first launch
 
 Their authors have turned off third-party API access on CurseForge, so packwiz is not
-allowed to fetch them. The installer will stop with an error naming each one. Download
-these manually and drop them into the instance's `.minecraft/mods/` folder:
+allowed to fetch them.
+
+**This is not optional and the order matters.** If these three are missing, the installer
+does not install "everything but those three", it aborts the whole run and you end up with
+an empty `mods` folder. Put them in first.
+
+Create `.minecraft/mods/` in the instance and drop these into it:
 
 | Mod | File | Link |
 | --- | --- | --- |
