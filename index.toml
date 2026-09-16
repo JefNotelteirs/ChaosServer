@@ -1,0 +1,70 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/Soulbound-1.12.2-1.0.0.jar"
+hash = "069183bac9ee79cddaeffbf0425ba50d74557628713b3749b82022cfd74756f8"
+
+[[files]]
+file = "mods/bauble-of-undying.pw.toml"
+hash = "4e9d53b865583d4d4f86bed56261260a8cdd07937d928e9ce10a457934becbf9"
+metafile = true
+
+[[files]]
+file = "mods/baubles.pw.toml"
+hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
+metafile = true
+
+[[files]]
+file = "mods/chisel.pw.toml"
+hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
+metafile = true
+
+[[files]]
+file = "mods/corpse-complex.pw.toml"
+hash = "cdc115a749d5f9e75cee079e94b0c08123a84fbb89e3555f21aa0f6f270848c6"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
+metafile = true
+
+[[files]]
+file = "mods/lucky-block.pw.toml"
+hash = "0e34e8533bee9e9b80faf8bbd69302c3021aba073d947f065f04ef2ef7282600"
+metafile = true
+
+[[files]]
+file = "mods/modern-ruins-pack.pw.toml"
+hash = "d8c145ee4b7b5c07529b28e5b6b5a372857ff97c0c5f48c4a4a49916983992d1"
+metafile = true
+
+[[files]]
+file = "mods/projecte.pw.toml"
+hash = "4d0eefd58ee00bebee6d4b4309c819ede0cab0368d66e614a4bcbc2dc97ef829"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-run-parasites-nests-addon-by-nocube.pw.toml"
+hash = "1acac52594b1a4359ea1bd8c975cdd38f72eed038164be9ea2718b0dbdcba53b"
+metafile = true
+
+[[files]]
+file = "mods/scape-and-run-parasites.pw.toml"
+hash = "9c3793c6e793a29fd2849f39f27153070fe402e868539a7214f8dd618bcdf1db"
+metafile = true
+
+[[files]]
+file = "mods/starterkits.pw.toml"
+hash = "e2e5fb8029e240b35adc22d8a8b8dc78af1dab4fb00b3d99d3734837992f00e2"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-and-baubles.pw.toml"
+hash = "99b4e165f33ce5db32b6183449ec879d5279bde8caba6f38405578ecec8530e0"
+metafile = true
+
+[[files]]
+file = "mods/valkyrielib.pw.toml"
+hash = "96ad1f64d7a17ef970c3be83443c65fb8ddb90f908fccaa4a969ac67614ec48f"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Trinkets and Baubles"
+filename = "Trinkets and Baubles-Forge-1.12.2-0.33.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bfa84b528a4d92bffed347bcd10fc4647774189d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8703456
+project-id = 279900

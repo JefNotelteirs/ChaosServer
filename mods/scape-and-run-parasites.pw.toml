@@ -1,0 +1,13 @@
+name = "Scape and Run: Parasites"
+filename = "SRParasites-1.10.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d5ce93c51cbd91b048e25d97463583e83709789"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8787918
+project-id = 348025

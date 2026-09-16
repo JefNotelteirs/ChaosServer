@@ -1,0 +1,13 @@
+name = "ChaosServer"
+author = "JefNo"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "be0fcc7c8c018991897e15209e4e4faa0683c43e0ec78a4e373194fd96741e69"
+
+[versions]
+forge = "14.23.5.2864"
+minecraft = "1.12.2"

@@ -1,0 +1,13 @@
+name = "Modern Ruins Pack"
+filename = "Modern_Ruins_Pack_1.12.2_2.5.4(chisel).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8904b81874958a348f0eadaba599e0141d8c15d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4867287
+project-id = 509490
