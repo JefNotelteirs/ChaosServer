@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "e34142862856ecf002810d4abcab1cd4c81a26866b5177d3f7ee72ec3a135fc1"
+hash = "eda5a2d0dccce02ac5f4328c980b51ab87d732f643e2b6b1b4a2edb9256ac4fd"
 
 [[files]]
-file = "mods/Soulbound-1.12.2-1.0.0.jar"
-hash = "069183bac9ee79cddaeffbf0425ba50d74557628713b3749b82022cfd74756f8"
+file = "mods/Soulbound-1.12.2-1.0.1.jar"
+hash = "0378abde43bbd0e374d4bef263754b2fcc132881e93372b9e842cdb43f46612d"
 
 [[files]]
 file = "mods/bauble-of-undying.pw.toml"

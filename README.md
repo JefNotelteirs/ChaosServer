@@ -26,7 +26,10 @@ Threat: Scape and Run: Parasites + NoCube's Nests addon.
 World: Modern Ruins Pack (with Chisel + CTM).
 
 Rules: Corpse Complex (baubles stay in your inventory when you die, nothing else does),
-Soulbound (custom, treasure enchantment from villager trades and chest loot),
+Soulbound (custom, treasure enchantment from villager trades and chest loot, and it
+applies to *any* item on an anvil, including durability-less modded ones like the
+ProjectE Transmutation Tablet),
 StarterKits (everyone spawns with 5 lucky blocks, iron gear, 2 soulbound books, 10 bread).
 
-`Soulbound-1.12.2-1.0.0.jar` is shipped in this repo directly, it is not a CurseForge mod.
+`Soulbound-1.12.2-1.0.1.jar` is shipped in this repo directly, it is not a CurseForge mod.
+It is built from `~/mc-mods/soulbound`.
